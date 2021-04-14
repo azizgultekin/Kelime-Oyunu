@@ -1,0 +1,7 @@
+Adı_Soyadı     Puanı     Süresi     Oynanılan_Zaman     
+
+1. AZİZ GÜLTEKİN     5200     01:22     12.04.2021 15:45:48     
+2. ASDFG SDFG     4500     00:37     13.04.2021 22:05:31     
+3. DFDS FDSFS     4400     02:26     13.04.2021 23:27:01     
+4. ASDDSSADA DSADA     3400     01:39     13.04.2021 23:07:54     
+5. ALİ VAROL     2700     00:01     13.04.2021 21:49:14     
